@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapperDemo.Data", "MyDapperDemo.Data\MyDapperDemo.Data.csproj", "{C2806A61-F0F5-407C-9271-D8BEEE19BFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapperDemo.Entities", "MyDapperDemo.Entities\MyDapperDemo.Entities.csproj", "{A0E67493-DF0B-4A53-A1DF-3AE08E9E16A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapperDemo.Console", "MyDapperDemo.Console\MyDapperDemo.Console.csproj", "{4F069647-F1EF-4BB5-B059-F6A435E75AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapperDemo.Common", "MyDapperDemo.Common\MyDapperDemo.Common.csproj", "{F4348BF6-3BA9-4504-A08C-5FE946931126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapperDemo.Tests", "MyDapperDemo.Tests\MyDapperDemo.Tests.csproj", "{D682039B-2432-487A-B955-4FCC26C0395F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapperDemo.BusinessLogic", "MyDapperDemo.BusinessLogic\MyDapperDemo.BusinessLogic.csproj", "{F2368E72-1B88-4EDF-88BF-92F32D139A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2806A61-F0F5-407C-9271-D8BEEE19BFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2806A61-F0F5-407C-9271-D8BEEE19BFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2806A61-F0F5-407C-9271-D8BEEE19BFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2806A61-F0F5-407C-9271-D8BEEE19BFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E67493-DF0B-4A53-A1DF-3AE08E9E16A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E67493-DF0B-4A53-A1DF-3AE08E9E16A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E67493-DF0B-4A53-A1DF-3AE08E9E16A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E67493-DF0B-4A53-A1DF-3AE08E9E16A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F069647-F1EF-4BB5-B059-F6A435E75AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F069647-F1EF-4BB5-B059-F6A435E75AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F069647-F1EF-4BB5-B059-F6A435E75AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F069647-F1EF-4BB5-B059-F6A435E75AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4348BF6-3BA9-4504-A08C-5FE946931126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4348BF6-3BA9-4504-A08C-5FE946931126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4348BF6-3BA9-4504-A08C-5FE946931126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4348BF6-3BA9-4504-A08C-5FE946931126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D682039B-2432-487A-B955-4FCC26C0395F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D682039B-2432-487A-B955-4FCC26C0395F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D682039B-2432-487A-B955-4FCC26C0395F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D682039B-2432-487A-B955-4FCC26C0395F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2368E72-1B88-4EDF-88BF-92F32D139A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2368E72-1B88-4EDF-88BF-92F32D139A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2368E72-1B88-4EDF-88BF-92F32D139A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2368E72-1B88-4EDF-88BF-92F32D139A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
